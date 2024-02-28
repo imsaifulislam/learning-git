@@ -1,5 +1,5 @@
-C Programming		2022
-C++ With OOP		2022
-Python			2023
+C Programming		
+C++ With OOP		
+Python			
 
-Javascript		2023
+Javascript		
